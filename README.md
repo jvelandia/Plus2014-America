@@ -39,7 +39,7 @@
       </figure>
       <h2 class="titulo_item">
         <a href="#">
-            Titulo del articulo
+            Elementary OS, un estilo OS X para Linux
         </a> 
       </h2>
       <div class="autor_item">
@@ -55,7 +55,169 @@
         <a href="#" class="up">U</a>
         720
         <a href="#" class="down">D</a>
-        <a href="#" class="Comentarios_item">69</a>
+        <a href="#" class="comentarios_item">69</a>
+        <a href="#" class="guardar_item">X</a>
+       </div>
+     </article>
+     
+     <article class="item">
+      <figure class="imagen_item">
+         <img src="imagen.jpg" />
+      </figure>
+      <h2 class="titulo_item">
+        <a href="#">
+            Las llaves del cuarto de hotel serán una app en tu teléfono
+        </a> 
+      </h2>
+      <div class="autor_item">
+        Por <a href="#">Jonathan Velandia</a>
+      </div>
+      <div class="datos_item">
+        <a href="#" class"=tag_item">Pony</a>
+        <span class="fecha_item">
+           Hace<strong> 5 </strong>min
+        </span>
+      </div>
+      <div class="votacion">
+        <a href="#" class="up">U</a>
+        720
+        <a href="#" class="down">D</a>
+        <a href="#" class="comentarios_item">69</a>
+        <a href="#" class="guardar_item">X</a>
+       </div>
+     </article>
+     
+     <article class="item">
+      <figure class="imagen_item">
+         <img src="imagen.jpg" />
+      </figure>
+      <h2 class="titulo_item">
+        <a href="#">
+            Bower, un administrador de paquetes para la web
+        </a> 
+      </h2>
+      <div class="autor_item">
+        Por <a href="#">Jonathan Velandia</a>
+      </div>
+      <div class="datos_item">
+        <a href="#" class"=tag_item">Pony</a>
+        <span class="fecha_item">
+           Hace<strong> 5 </strong>min
+        </span>
+      </div>
+      <div class="votacion">
+        <a href="#" class="up">U</a>
+        720
+        <a href="#" class="down">D</a>
+        <a href="#" class="comentarios_item">69</a>
+        <a href="#" class="guardar_item">X</a>
+       </div>
+     </article>
+     
+     <article class="item">
+      <figure class="imagen_item">
+         <img src="imagen.jpg" />
+      </figure>
+      <h2 class="titulo_item">
+        <a href="#">
+            Cómo crear una cuenta en Google AdWords
+        </a> 
+      </h2>
+      <div class="autor_item">
+        Por <a href="#">Jonathan Velandia</a>
+      </div>
+      <div class="datos_item">
+        <a href="#" class"=tag_item">Pony</a>
+        <span class="fecha_item">
+           Hace<strong> 5 </strong>min
+        </span>
+      </div>
+      <div class="votacion">
+        <a href="#" class="up">U</a>
+        720
+        <a href="#" class="down">D</a>
+        <a href="#" class="comentarios_item">69</a>
+        <a href="#" class="guardar_item">X</a>
+       </div>
+     </article>
+     
+     <article class="item">
+      <figure class="imagen_item">
+         <img src="imagen.jpg" />
+      </figure>
+      <h2 class="titulo_item">
+        <a href="#">
+            Google debe pagar 1.36% de sus ingresos por juicio de patentes
+        </a> 
+      </h2>
+      <div class="autor_item">
+        Por <a href="#">Jonathan Velandia</a>
+      </div>
+      <div class="datos_item">
+        <a href="#" class"=tag_item">Pony</a>
+        <span class="fecha_item">
+           Hace<strong> 5 </strong>min
+        </span>
+      </div>
+      <div class="votacion">
+        <a href="#" class="up">U</a>
+        720
+        <a href="#" class="down">D</a>
+        <a href="#" class="comentarios_item">69</a>
+        <a href="#" class="guardar_item">X</a>
+       </div>
+     </article>
+     
+     <article class="item">
+      <figure class="imagen_item">
+         <img src="imagen.jpg" />
+      </figure>
+      <h2 class="titulo_item">
+        <a href="#">
+            Cambiar de sexo, apariencia y edad con Oculus Rift
+        </a> 
+      </h2>
+      <div class="autor_item">
+        Por <a href="#">Jonathan Velandia</a>
+      </div>
+      <div class="datos_item">
+        <a href="#" class"=tag_item">Pony</a>
+        <span class="fecha_item">
+           Hace<strong> 5 </strong>min
+        </span>
+      </div>
+      <div class="votacion">
+        <a href="#" class="up">U</a>
+        720
+        <a href="#" class="down">D</a>
+        <a href="#" class="comentarios_item">69</a>
+        <a href="#" class="guardar_item">X</a>
+       </div>
+     </article>
+     
+     <article class="item">
+      <figure class="imagen_item">
+         <img src="imagen.jpg" />
+      </figure>
+      <h2 class="titulo_item">
+        <a href="#">
+            Mariux: La editora de Cristalab
+        </a> 
+      </h2>
+      <div class="autor_item">
+        Por <a href="#">Jonathan Velandia</a>
+      </div>
+      <div class="datos_item">
+        <a href="#" class"=tag_item">Pony</a>
+        <span class="fecha_item">
+           Hace<strong> 5 </strong>min
+        </span>
+      </div>
+      <div class="votacion">
+        <a href="#" class="up">U</a>
+        720
+        <a href="#" class="down">D</a>
+        <a href="#" class="comentarios_item">69</a>
         <a href="#" class="guardar_item">X</a>
        </div>
      </article>
