@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="utf-8"/>
-  <meta descripption="Proyecto de la primera generación
+  <meta name="description" content="Proyecto de la primera generación
   del curso de diseño web online" />
   <title>Puls2014: Comunidad de personas atracticas y sexy</title>
   <link rel="stylesheet" href="normalize.css" />
