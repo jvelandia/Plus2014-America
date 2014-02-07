@@ -4,6 +4,7 @@
   <meta charset="utf-8"/>
   <meta name="description" content="Proyecto de la primera generación
   del curso de diseño web online" />
+  <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1"/>
   <title>Puls2014: Comunidad de personas atracticas y sexy</title>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="normalize.css" />
