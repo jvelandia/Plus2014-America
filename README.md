@@ -5,6 +5,7 @@
   <meta name="description" content="Proyecto de la primera generación
   del curso de diseño web online" />
   <title>Puls2014: Comunidad de personas atracticas y sexy</title>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="normalize.css" />
   <link rel="stylesheet" href="estilos.css" />
 </head>
@@ -28,7 +29,7 @@
       <li><a href="#">CSS3</a></li>
       <li><a href="#">Django</a></li>
       <li id="publicar_nav">
-          <a href="#">Publicar</a>
+          <a href="#" class="icon-lapiz">Publicar</a>
       </li>
      </ul>     
   </nav>
@@ -52,11 +53,11 @@
         </span>
       </div>
       <div class="votacion">
-        <a href="#" class="up">U</a>
+        <a href="#" class="up icon-f-arriba"></a>
         720
-        <a href="#" class="down">D</a>
+        <a href="#" class="down icon-f-abajo"></a>
         <a href="#" class="comentarios_item">69</a>
-        <a href="#" class="guardar_item">X</a>
+        <a href="#" class="guardar_item icon-estrella"></a>
        </div>
      </article>
      
@@ -79,11 +80,11 @@
         </span>
       </div>
       <div class="votacion">
-        <a href="#" class="up">U</a>
+        <a href="#" class="up icon-f-arriba"></a>
         720
-        <a href="#" class="down">D</a>
+        <a href="#" class="down icon-f-abajo"></a>
         <a href="#" class="comentarios_item">69</a>
-        <a href="#" class="guardar_item">X</a>
+        <a href="#" class="guardar_item icon-estrella"></a>
        </div>
      </article>
      
@@ -106,11 +107,11 @@
         </span>
       </div>
       <div class="votacion">
-        <a href="#" class="up">U</a>
+        <a href="#" class="up icon-f-arriba"></a>
         720
-        <a href="#" class="down">D</a>
+        <a href="#" class="down icon-f-abajo"></a>
         <a href="#" class="comentarios_item">69</a>
-        <a href="#" class="guardar_item">X</a>
+        <a href="#" class="guardar_item icon-estrella"></a>
        </div>
      </article>
      
@@ -133,11 +134,11 @@
         </span>
       </div>
       <div class="votacion">
-        <a href="#" class="up">U</a>
+        <a href="#" class="up icon-f-arriba"></a>
         720
-        <a href="#" class="down">D</a>
+        <a href="#" class="down icon-f-abajo"></a>
         <a href="#" class="comentarios_item">69</a>
-        <a href="#" class="guardar_item">X</a>
+        <a href="#" class="guardar_item icon-estrella"></a>
        </div>
      </article>
      
@@ -160,11 +161,11 @@
         </span>
       </div>
       <div class="votacion">
-        <a href="#" class="up">U</a>
+        <a href="#" class="up icon-f-arriba"></a>
         720
-        <a href="#" class="down">D</a>
+        <a href="#" class="down icon-f-abajo"></a>
         <a href="#" class="comentarios_item">69</a>
-        <a href="#" class="guardar_item">X</a>
+        <a href="#" class="guardar_item icon-estrella"></a>
        </div>
      </article>
      
@@ -187,11 +188,11 @@
         </span>
       </div>
       <div class="votacion">
-        <a href="#" class="up">U</a>
+        <a href="#" class="up icon-f-arriba"></a>
         720
-        <a href="#" class="down">D</a>
+        <a href="#" class="down icon-f-abajo"></a>
         <a href="#" class="comentarios_item">69</a>
-        <a href="#" class="guardar_item">X</a>
+        <a href="#" class="guardar_item icon-estrella"></a>
        </div>
      </article>
      
@@ -214,11 +215,11 @@
         </span>
       </div>
       <div class="votacion">
-        <a href="#" class="up">U</a>
+        <a href="#" class="up icon-f-arriba"></a>
         720
-        <a href="#" class="down">D</a>
+        <a href="#" class="down icon-f-abajo"></a>
         <a href="#" class="comentarios_item">69</a>
-        <a href="#" class="guardar_item">X</a>
+        <a href="#" class="guardar_item icon-estrella"></a>
        </div>
      </article>
   </section>
