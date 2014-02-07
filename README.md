@@ -53,9 +53,9 @@
         </span>
       </div>
       <div class="votacion">
-        <a href="#" class="up icon-f-arriba"></a>
+        <a href="#" class="up icon-f-abajo"></a>
         720
-        <a href="#" class="down icon-f-abajo"></a>
+        <a href="#" class="down icon-f-arriba"></a>
         <a href="#" class="comentarios_item">69</a>
         <a href="#" class="guardar_item icon-estrella"></a>
        </div>
@@ -80,9 +80,9 @@
         </span>
       </div>
       <div class="votacion">
-        <a href="#" class="up icon-f-arriba"></a>
+        <a href="#" class="up icon-f-abajo"></a>
         720
-        <a href="#" class="down icon-f-abajo"></a>
+        <a href="#" class="down icon-f-arriba"></a>
         <a href="#" class="comentarios_item">69</a>
         <a href="#" class="guardar_item icon-estrella"></a>
        </div>
@@ -107,9 +107,9 @@
         </span>
       </div>
       <div class="votacion">
-        <a href="#" class="up icon-f-arriba"></a>
+        <a href="#" class="up icon-f-abajo"></a>
         720
-        <a href="#" class="down icon-f-abajo"></a>
+        <a href="#" class="down icon-f-arriba"></a>
         <a href="#" class="comentarios_item">69</a>
         <a href="#" class="guardar_item icon-estrella"></a>
        </div>
@@ -134,9 +134,9 @@
         </span>
       </div>
       <div class="votacion">
-        <a href="#" class="up icon-f-arriba"></a>
+        <a href="#" class="up icon-f-abajo"></a>
         720
-        <a href="#" class="down icon-f-abajo"></a>
+        <a href="#" class="down icon-f-arriba"></a>
         <a href="#" class="comentarios_item">69</a>
         <a href="#" class="guardar_item icon-estrella"></a>
        </div>
@@ -161,9 +161,9 @@
         </span>
       </div>
       <div class="votacion">
-        <a href="#" class="up icon-f-arriba"></a>
+        <a href="#" class="up icon-f-abajo"></a>
         720
-        <a href="#" class="down icon-f-abajo"></a>
+        <a href="#" class="down icon-f-arriba"></a>
         <a href="#" class="comentarios_item">69</a>
         <a href="#" class="guardar_item icon-estrella"></a>
        </div>
@@ -188,9 +188,9 @@
         </span>
       </div>
       <div class="votacion">
-        <a href="#" class="up icon-f-arriba"></a>
+        <a href="#" class="up icon-f-abajo"></a>
         720
-        <a href="#" class="down icon-f-abajo"></a>
+        <a href="#" class="down icon-f-arriba"></a>
         <a href="#" class="comentarios_item">69</a>
         <a href="#" class="guardar_item icon-estrella"></a>
        </div>
@@ -215,9 +215,9 @@
         </span>
       </div>
       <div class="votacion">
-        <a href="#" class="up icon-f-arriba"></a>
+        <a href="#" class="up icon-f-abajo"></a>
         720
-        <a href="#" class="down icon-f-abajo"></a>
+        <a href="#" class="down icon-f-arriba"></a>
         <a href="#" class="comentarios_item">69</a>
         <a href="#" class="guardar_item icon-estrella"></a>
        </div>
