@@ -34,11 +34,13 @@
       </li>
      </ul>     
   </nav>
-  <video width="320" height="240" controls>
+  <aside>
+  <video width="320" height="240" autoplay controls>
   <source src="lecturas.mp4" type="video/mp4">
   <source src="lecturas.ogg" type="video/ogg">
    <!-- Actualiza tu navegador-->
    </video>
+   </aside>
   <section id="contenido">
     <article class="item">
       <figure class="imagen_item">
