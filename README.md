@@ -34,7 +34,7 @@
       </li>
      </ul>     
   </nav>
-  <form action="" id="formulario">
+  <form action="" id="formulario" class="formulario">
      <input type="text" id="titulo" placeholder="Título" required>
      <input type="url" id="url" placeholder="Link" required>
      <input type="submit" value="Agregar">
