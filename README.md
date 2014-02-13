@@ -35,11 +35,10 @@
      </ul>     
   </nav>
   <form action="" id="formulario">
-     <input type="text" id="titulo" required>
-     <input type="url" id="url" required"
-  
-  
-  
+     <input type="text" id="titulo" placeholder="Título" required>
+     <input type="url" id="url" placeholder="Link" required>
+     <input type="submit" value="Agregar">
+  </form>
   <aside>
   <video width="320" height="240" autoplay controls>
   <source src="lecturas.mp4" type="video/mp4">
