@@ -9,6 +9,7 @@
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="normalize.css" />
   <link rel="stylesheet" href="estilos.css" />
+  <script scr="prefixfree.js"></script>
 </head>
 <body>
   <header>
@@ -244,5 +245,8 @@
     <strong>mejorando.la 2014</strong>
   </p>
   </footer>
+  <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script src="formulario.js"></script>
+  
  </body>
  </html>
